@@ -1,0 +1,6 @@
+# Replace both example MAC addresses with measurements from your own machine.
+# A is upstream; B is the protected LAN. Never assign roles by rt# order.
+A_MAC=02:00:00:00:78:01
+B_MAC=02:00:00:00:77:01
+B_IP=192.168.77.1
+B_NET=192.168.77.0/24
